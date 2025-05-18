@@ -2,7 +2,7 @@
 # ✍️ Project Reflection
 
 ## AI Tools Used
-What tools did you use (e.g., ChatGPT, Copilot)? How did they help?
+ChatGPT, Copilot, Meta, Gemini, Claude
 
 ## Prompting Techniques
 Which intentional prompting strategies did you apply?
