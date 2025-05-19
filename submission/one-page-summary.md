@@ -2,9 +2,9 @@
 
 ## The Big Picture
 
-You'll build a weather app called "Weather Advisor" that combines real weather data with AI conversation abilities. Think of it as a smart weather assistant that can answer questions like "Should I take an umbrella tomorrow?" or "What's the temperature going to be like this weekend in Sydney?"
+Weatherwise adalah program berbasi python yang di rancang untuk memberikan informasi cuaca secara realtime dan dapat memberikan saran terkait aktivitas yang sesuai dengan kondisi cuaca di lokasi tertentu. Project ini bertujuan untuk menjadikan aplikasi sebagai asisten untuk membantu pengguna membuat keputusan harian yang lebih cerdas terutama saat merencanakan kegiatan diluar ruangan.
 
-## What You'll Create
+## What i Created
 
 This project has two main parts:
 
