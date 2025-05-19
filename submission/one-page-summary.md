@@ -34,13 +34,15 @@ You'll:
 
 ## Learning Value
 
-This project helps you learn:
-- How to build a complete, working application
-- Creating useful data visualisations
-- Making intuitive user interfaces
-- Working effectively with AI coding assistants
-- Using version control (GitHub)
-- Writing well-structured, maintainable code
+- Menyusun pseduocode sebelum merancang sebuah sistem
+- Menyusun kode program secara sistematis sehingga mudah di pahami dan di modifikasi
+- Merancang antarmuka pengguna yang efisien dan user friendly
+- Membangun sebuah system berbasis online dan realtime
+- Mengkonversi hasil data berupa JSON yang di parsing menjadi data granullar untuk infomatif
+- Menghasilkan visualisasi data yang relevan dan komunikatif
+- Menggunakan alat bantu berbasis AI secara efektif untuk menyelesaikan proses teknis dalam pemrograman
+- Mendokumentasikan alur kerja
+- Memanfaatkan platform github untuk memantau revisi kode selama pembangunan program
 
 ## Assessment Approach
 
