@@ -5,11 +5,9 @@
 ChatGPT, Copilot, Meta, Gemini, Claude
 
 ## Prompting Techniques
-selama mengembangkan aplikasi ini saya melakukan berbagai strategi prompting dari mulai menganalisa masalah hingga pemecahan masalah menggunakan kode python. hal ini membuat saya banyak mengerti baik secara materi dan teknik dan membuat langkah kerja saya menjadi lebih efektif.
-
-Dimulai alur saya untuk pseduocode program, yang kemudian saya meminta AI untuk menjelaskan pemikiran/penalaran langkah - langkah yang harus saya lakukan dalam membangun aplikasi dari pseduo yang sudah saya kerjakan. Prompt ini di kenal sebagai Chain-of-Thought-Prompting. seperti hal nya saat saya bertanya kepada chatgpt di conversation1.txt. Keterbatasan saya dalam dunia koding / programming, juga mengarahkan saya untuk menggunakan teknik zero-shot dan few-shot prompting dengan meminta ai untuk menganalisa dan membuatkan full koding dari hasil terakhir yang saya miliki atau ketika memulai untuk mencari logika baru pada program. 
-
-dengan menerapkan beberapa langkah prompting, saya terbiasa untuk menggunakan ai sebagai _partner belajar_ dalam memahami konsep, mengembangkan solusi dan meningkatkan kemampuan logika pemrograman saya.
+While developing this application, I applied various prompting strategies, starting from problem analysis to problem-solving using Python code. This process has greatly enhanced my understanding, both conceptually and technically, while making my workflow more efficient.
+I began by structuring a pseudocode outline of the program, after which I asked the AI to explain the reasoning and logical steps needed to build the application based on my pseudocode. This approach is known as Chain-of-Thought Prompting, similar to how I engaged with AI in conversation1.txt. Given my limited experience in coding, I also utilized zero-shot and few-shot prompting, asking AI to analyze my latest code version and generate a complete solution or assist in developing new logic for my program.
+By applying these prompting techniques, I have become accustomed to using AI as a learning companion, helping me understand concepts, develop solutions, and strengthen my programming logic skills.
 
 ## What Worked Well?
 Describe one thing you’re proud of:
