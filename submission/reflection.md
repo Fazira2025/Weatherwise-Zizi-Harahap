@@ -5,7 +5,11 @@
 ChatGPT, Copilot, Meta, Gemini, Claude
 
 ## Prompting Techniques
-Which intentional prompting strategies did you apply?
+selama mengembangkan aplikasi ini saya melakukan berbagai strategi prompting dari mulai menganalisa masalah hingga pemecahan masalah menggunakan kode python. hal ini membuat saya banyak mengerti baik secara materi dan teknik dan membuat langkah kerja saya menjadi lebih efektif.
+
+Dimulai alur saya untuk pseduocode program, yang kemudian saya meminta AI untuk menjelaskan pemikiran/penalaran langkah - langkah yang harus saya lakukan dalam membangun aplikasi dari pseduo yang sudah saya kerjakan. Prompt ini di kenal sebagai Chain-of-Thought-Prompting. seperti hal nya saat saya bertanya kepada chatgpt di conversation1.txt. Keterbatasan saya dalam dunia koding / programming, juga mengarahkan saya untuk menggunakan teknik zero-shot dan few-shot prompting dengan meminta ai untuk menganalisa dan membuatkan full koding dari hasil terakhir yang saya miliki atau ketika memulai untuk mencari logika baru pada program. 
+
+dengan menerapkan beberapa langkah prompting, saya terbiasa untuk menggunakan ai sebagai _partner belajar_ dalam memahami konsep, mengembangkan solusi dan meningkatkan kemampuan logika pemrograman saya.
 
 ## What Worked Well?
 Describe one thing you’re proud of:
