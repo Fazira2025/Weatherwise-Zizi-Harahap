@@ -28,6 +28,16 @@ You'll:
 - Program the app to understand weather questions
 - Use AI tools to help with coding challenges
 - Document how you used AI to solve problems
+- 
+- Menerapkan pemrograman berbasis python untuk mengambil data cuaca menggunakan API-service secara realtime 
+- Merancang system navigasi menu yang mudah di gunakan oleh pengguna
+- Merancang visualisasi data cuaca hari ini dan forcast 2 hari kedepan dengan hasil format API dalam bentuk kode text ASCII
+- Merancang visualisasi data cuaca untuk menampilkan informasi berdasarkan hasil parsing data JSON
+- Merancang visualiasai data cuaca menggunakan tambahan emoji agar lebih informatif
+- Mengimplementasikan pemrosesan bahasa alami (NLP) dalam membuat sebuah saran terhadap aktivitas yang akan dilakukan pada hari itu, besok atau lusa
+- Merancang fungsi untuk perubahan lokasi pengecekan cuaca
+- Merancang visualisasi terhadap kemungkinan terjadi nya hujan berdasarkan presentase perkiraan terjadinya hujan
+- Merancang visualisasi terhadap kondisi per jam pada hari ini menggunakan grafik
 
 ## Learning Value
 
