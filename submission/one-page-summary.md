@@ -22,13 +22,6 @@ This project has two main parts:
 ## How i Build It
 
 You'll:
-- Write Python code to get weather data from online services
-- Create visual charts to show weather patterns
-- Build a user-friendly menu system
-- Program the app to understand weather questions
-- Use AI tools to help with coding challenges
-- Document how you used AI to solve problems
-- 
 - Menerapkan pemrograman berbasis python untuk mengambil data cuaca menggunakan API-service secara realtime 
 - Merancang system navigasi menu yang mudah di gunakan oleh pengguna
 - Merancang visualisasi data cuaca hari ini dan forcast 2 hari kedepan dengan hasil format API dalam bentuk kode text ASCII
