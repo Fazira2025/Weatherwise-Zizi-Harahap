@@ -18,49 +18,49 @@ Use this checklist to track your progress and ensure your Weather Advisor projec
 
 ## Repository Setup
 
-- [ ] Repository created from template
-- [ ] README.md updated with your project information
-- [ ] Instructor (michael-borck) invited to your repository
+- ✅ Repository created from template
+- ✅ README.md updated with your project information
+- ✅ Instructor (michael-borck) invited to your repository
 
 ## Notebook Organisation
 
-- [ ] Notebook has clear section headers using markdown cells
-- [ ] Sections are logically organised and follow the required structure
-- [ ] Code includes appropriate comments and docstrings
-- [ ] No unused code or unnecessary cells
-- [ ] All imports are at the top of the notebook or in the appropriate section
+- ✅ Notebook has clear section headers using markdown cells
+- ✅ Sections are logically organised and follow the required structure
+- [ ] Code includes appropriate comments and docstrings **ijo2
+- ✅ No unused code or unnecessary cells
+- ✅ All imports are at the top of the notebook or in the appropriate section
 
 ## Weather Data Component
 
-- [ ] Successfully retrieves weather data from chosen source
-- [ ] Handles connection errors and timeouts gracefully
-- [ ] Validates user input (e.g., city names, parameters)
-- [ ] Processes and structures the data for use in the application
-- [ ] Provides meaningful error messages for users
+- ✅ Successfully retrieves weather data from chosen source
+- ✅ Handles connection errors and timeouts gracefully
+- ✅ Validates user input (e.g., city names, parameters)
+- ✅ Processes and structures the data for use in the application
+- ✅ Provides meaningful error messages for users
 
 ## Visualisation Component
 
 - [ ] Implements at least 2 different visualisation types
-- [ ] All visualisations have proper titles, labels, and legends
-- [ ] Visualisations are readable and use appropriate colors
-- [ ] Handles edge cases (e.g., missing data, extreme values)
-- [ ] Visualisations are relevant to the data being displayed
+- ✅ All visualisations have proper titles, labels, and legends
+- ✅ Visualisations are readable and use appropriate colors
+- ✅ Handles edge cases (e.g., missing data, extreme values)
+- ✅ Visualisations are relevant to the data being displayed
 
 ## Natural Language Interface
 
-- [ ] Successfully parses user questions to extract key information
-- [ ] Identifies locations in user queries
-- [ ] Identifies time periods in user queries (today, tomorrow, etc.)
-- [ ] Identifies weather attributes (temperature, rain, etc.)
-- [ ] Generates natural-sounding responses to user questions
+- ✅ Successfully parses user questions to extract key information
+- ✅ Identifies locations in user queries
+- ✅ Identifies time periods in user queries (today, tomorrow, etc.)
+- ✅ Identifies weather attributes (temperature, rain, etc.)
+- ✅ Generates natural-sounding responses to user questions
 
 ## User Interface
 
 - [ ] Implements a clear menu system using pyinputplus
 - [ ] Provides appropriate feedback to users
-- [ ] Has a logical flow between different options
-- [ ] Handles invalid inputs gracefully
-- [ ] Maintains a clean and organised display
+- ✅ Has a logical flow between different options
+- ✅ Handles invalid inputs gracefully
+- ✅ Maintains a clean and organised display
 
 ## AI Interaction Documentation
 
@@ -73,27 +73,27 @@ Use this checklist to track your progress and ensure your Weather Advisor projec
 
 ## Technical Requirements
 
-- [ ] All code runs without errors in Google Colab
-- [ ] No hardcoded sensitive data (API keys, personal information)
-- [ ] Modular design with functions for specific tasks
-- [ ] Appropriate error handling throughout the application
-- [ ] Code follows consistent style (variable naming, indentation, etc.)
+- ✅ All code runs without errors in Google Colab
+- ✅ No hardcoded sensitive data (API keys, personal information)
+- ✅ Modular design with functions for specific tasks
+- ✅ Appropriate error handling throughout the application
+- ✅ Code follows consistent style (variable naming, indentation, etc.)
 
 ## Final Testing
 
-- [ ] Tested with multiple locations
-- [ ] Tested with various types of weather questions
-- [ ] Tested with edge cases (invalid locations, connection issues)
-- [ ] All menu options function as expected
-- [ ] Visualisations render correctly
+- ✅ Tested with multiple locations **change location
+- [ ] Tested with various types of weather questions **will it rain tomorrow?**
+- ✅ Tested with edge cases (invalid locations, connection issues)
+- ✅ All menu options function as expected
+- ✅ Visualisations render correctly
 
 ## Documentation Quality
 
 - [ ] Code is well-commented with meaningful docstrings
-- [ ] README.md provides clear overview and instructions
+- ✅ README.md provides clear overview and instructions
 - [ ] PROMPTING.md shows thoughtful AI interaction
-- [ ] Reflection document (300-500 words) included
-- [ ] All required files are present and properly formatted
+- ✅ Reflection document (300-500 words) included
+- ✅ All required files are present and properly formatted
 
 ## Submission
 
