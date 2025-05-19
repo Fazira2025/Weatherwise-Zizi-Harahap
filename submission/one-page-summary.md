@@ -9,16 +9,17 @@ Weatherwise adalah program berbasi python yang di rancang untuk memberikan infor
 This project has two main parts:
 
 1. **Weather Information Display**
-   - Gets current weather and forecasts for any location
-   - Shows useful charts and graphs of temperature and rain chances
-   - Presents weather data in a clear, organised way
-
+   - Menyajikan data secara visual dengan rapi serta menambahkan emoji sehingga memperjelas pengguna untuk memahami
+   - Mengambil data cuaca saat ini dan perkiraan cuaca untuk forcast 2 hari kedepan ( besok & lusa )
+   - Mampu menampilkan cuaca untuk di lokasi manapun (mengganti lokasi)
+   - Menyediakan tampilan peluang terjadinya hujan
+      
 2. **Conversation Feature**
-   - Lets users ask questions in everyday language
-   - Understands what weather information they need
-   - Responds in a natural, helpful way
+   - Menerapkan pemrosesan bahasa alami (NLP) untuk memberikan saran pengguna seputar aktivitas yang dapat dilakukan berdasarkan kondisi cuaca hari ini , besok / lusa
+   - Memberikan pengguna kemudahan untuk mengganti lokasi
+   - Memberikan tanggapan yang relevan, informatif, dan disusun secara natural layaknya percakapan dengan asisten cerdas
 
-## How You'll Build It
+## How i Build It
 
 You'll:
 - Write Python code to get weather data from online services
